@@ -1,2 +1,3 @@
 this is foregit.txt.
 ok fool
+adding another line of text at 11:42 into foregit.txt
